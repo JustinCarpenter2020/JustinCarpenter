@@ -1,0 +1,3 @@
+# whiteBoard with peers experience 
+
+I was able to do two whiteboard challenges with my peers, Steffen and Chris. The challenges I preformed were amount of truths and objects to an array. The amount of truths was a challenge that required me to record the amount of true statements in an array. With this challenge I could've done better just talking through my process, I was rather quite for this fist one and talking would've definitely helped. The second challenge required me to change an object of key value pairs and turn them into an array. I could've done better with my handwriting, I was writing rather fast and should slow done to help it be more legible. 

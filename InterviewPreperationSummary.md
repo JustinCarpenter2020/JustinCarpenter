@@ -1,0 +1,3 @@
+# Prepare for an interview summary
+
+To stand out as a candidate in an interview there are many easy ways to prepare. To start you should research the company and know how to answer questions about why you want to be there or what you like about the company. This could also help you ask good questions if you know what the company does or what they’re involved in. Another way to prepare is to have a resume or even a laptop with your projects ready if needed. Overall you should try to be excited and positive about the company and make that feeling come across. 
